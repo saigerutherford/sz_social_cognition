@@ -11,4 +11,4 @@ This repository is organized as follows:
  - `group_level/` --> scripts for running group difference tests on subject-level connectivity maps (HC vs. SZ and HC vs. EP)
  - `prediction/` --> scripts for prediction of social cognition and visualization of predictive model evaluation metrics and statistical significance
  - `rois/` --> IPS-IFG peak coordinate NIFTI mask
- - `stat_maps/` --> Group difference statistical maps (Z_stat) for IPS seed
+ - `stat_maps/` --> Group difference statistical maps (Z_stat) for L IFG seed
